@@ -22,4 +22,8 @@ numba
 
 requests
 
+<<<<<<< HEAD
 fasfasfasdasd
+=======
+6666666
+>>>>>>> 51fd4768e6b9099303a70bb8ce7ad341f4580bb1

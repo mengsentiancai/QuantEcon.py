@@ -16,3 +16,5 @@ examples/*.png
 # Numba cache files
 *.nbc
 *.nbi
+pip-requirements.txt
+pip-requirements.txt
